@@ -1,0 +1,7 @@
+Version 1.0 of the ClipBoard Wizard
+
+Have you ever needed to paste and then you realized that the System ClipBoard has lost it
+due to Overwriting of subsequent copied text----ClipBoard Wizard brings the solution
+
+email: winninggreat@gmail.com
+
